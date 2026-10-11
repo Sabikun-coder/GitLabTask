@@ -1,0 +1,14 @@
+select ename, deptno, sal from emp where job = upper('manager')
+select concat(ename, deptno) from emp where length(ename)<=7
+select ename , job from emp where job LIKE '%ANA%'
+select ROUND(79.78) , TRUNC(79.78) from dual
+select sysdate from dual
+select ename,job, MOD(sal , comm) from emp where job = 'MANAGER'
+select ename, months_between(sysdate, hiredate) from emp where ename = upper('Turner')
+select next_day(to_date('12-OCT-22', 'DD-MON-YY'), 'WEDNESDAY') from dual
+select ename, months_between(sysdate, hiredate) from emp where ename = ('BLAKE')
+select to_char(sal, '$9,999.99') from emp where ename ='TURNER'
+select ename, NVL(comm,0)*12 from emp
+select ename, job, sal , DECODE( job, 'CLERK', sal*0.02+sal , 'PRESIDENT', sal*0.05+sal, 'SALESMAN', sal*0.07+sal, sal) from emp where job in ('CLERK', 'PRESIDENT', 'SALESMAN')
+select initcap('I LOVE MY COUNTRY AND I LOVE MY JOB') from dual
+select 'the commision of '|| ename ||'is'||nvl(to_char(comm), 'NULL') as "commision details" from emp

@@ -1,0 +1,29 @@
+# Build results
+bin/
+obj/
+.vs/
+.vscode/
+
+# Logs and cache
+*.log
+*.cache
+
+# NuGet packages
+packages/
+*.nupkg
+
+# User-specific
+*.user
+*.suo
+
+# Publish and temp
+publish/
+dist/
+temp/
+TestResults/
+
+# Visual Studio cache files
+*.cache
+*.vsidx
+*.vspscc
+*.vssscc

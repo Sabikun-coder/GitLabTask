@@ -1,0 +1,92 @@
+E:\code\C# Project\University\bin\Debug\net10.0-windows\University.exe
+E:\code\C# Project\University\bin\Debug\net10.0-windows\University.deps.json
+E:\code\C# Project\University\bin\Debug\net10.0-windows\University.runtimeconfig.json
+E:\code\C# Project\University\bin\Debug\net10.0-windows\University.dll
+E:\code\C# Project\University\bin\Debug\net10.0-windows\University.pdb
+E:\code\C# Project\University\obj\Debug\net10.0-windows\University.Login.resources
+E:\code\C# Project\University\obj\Debug\net10.0-windows\University.Properties.Resources.resources
+E:\code\C# Project\University\obj\Debug\net10.0-windows\University.csproj.GenerateResource.cache
+E:\code\C# Project\University\obj\Debug\net10.0-windows\University.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\C# Project\University\obj\Debug\net10.0-windows\University.AssemblyInfoInputs.cache
+E:\code\C# Project\University\obj\Debug\net10.0-windows\University.AssemblyInfo.cs
+E:\code\C# Project\University\obj\Debug\net10.0-windows\University.csproj.CoreCompileInputs.cache
+E:\code\C# Project\University\obj\Debug\net10.0-windows\University.dll
+E:\code\C# Project\University\obj\Debug\net10.0-windows\refint\University.dll
+E:\code\C# Project\University\obj\Debug\net10.0-windows\University.pdb
+E:\code\C# Project\University\obj\Debug\net10.0-windows\University.genruntimeconfig.cache
+E:\code\C# Project\University\obj\Debug\net10.0-windows\ref\University.dll
+E:\code\C# Project\University\obj\Debug\net10.0-windows\University.Student.resources
+E:\code\C# Project\University\bin\Debug\net10.0-windows\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\code\C# Project\University\obj\Debug\net10.0-windows\University.csproj.AssemblyReference.cache
+E:\code\C# Project\University\obj\Debug\net10.0-windows\University.csproj.Up2Date
+E:\code\C# Project\University\obj\Debug\net10.0-windows\University.New_Admission.resources
+E:\code\C# Project\University\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+E:\code\C# Project\University\bin\Debug\net10.0-windows\Google.Protobuf.dll
+E:\code\C# Project\University\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+E:\code\C# Project\University\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\code\C# Project\University\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+E:\code\C# Project\University\bin\Debug\net10.0-windows\MySql.Data.dll
+E:\code\C# Project\University\bin\Debug\net10.0-windows\ZstdSharp.dll
+E:\code\C# Project\University\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\code\C# Project\University\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\code\C# Project\University\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\code\C# Project\University\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\code\C# Project\University\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\code\C# Project\University\obj\Debug\net10.0-windows\University.UpgradeSemester.resources
+E:\code\C# Project\University\obj\Debug\net10.0-windows\University.txtFees.resources
+E:\code\C# Project\University\obj\Debug\net10.0-windows\University.SearchStudent.resources
+E:\code\C# Project\University\obj\Debug\net10.0-windows\University.Individual.resources
+E:\code\C# Project\University\obj\Debug\net10.0-windows\University.Teacher.resources
+E:\code\C# Project\University\obj\Debug\net10.0-windows\University.SearchTeacher.resources
+E:\code\C# Project\University\obj\Debug\net10.0-windows\University.RemoveID.resources
+E:\code\C# Project\University\obj\Debug\net10.0-windows\University.AboutUs.resources
+E:\code\C# Project\University\obj\Debug\net10.0-windows\University.Form1.resources
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\University.csproj.AssemblyReference.cache
+C:\Users\user\Documents\University\bin\Debug\net10.0-windows\University.exe
+C:\Users\user\Documents\University\bin\Debug\net10.0-windows\University.deps.json
+C:\Users\user\Documents\University\bin\Debug\net10.0-windows\University.runtimeconfig.json
+C:\Users\user\Documents\University\bin\Debug\net10.0-windows\University.dll
+C:\Users\user\Documents\University\bin\Debug\net10.0-windows\University.pdb
+C:\Users\user\Documents\University\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\user\Documents\University\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\user\Documents\University\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\user\Documents\University\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Documents\University\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\user\Documents\University\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\user\Documents\University\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Documents\University\bin\Debug\net10.0-windows\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\user\Documents\University\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\user\Documents\University\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\user\Documents\University\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\user\Documents\University\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\user\Documents\University\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\user\Documents\University\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\user\Documents\University\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Documents\University\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Documents\University\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Documents\University\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\user\Documents\University\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\University.AboutUs.resources
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\University.txtFees.resources
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\University.Form1.resources
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\University.Individual.resources
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\University.Login.resources
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\University.New_Admission.resources
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\University.Properties.Resources.resources
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\University.RemoveID.resources
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\University.SearchStudent.resources
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\University.SearchTeacher.resources
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\University.Student.resources
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\University.Teacher.resources
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\University.UpgradeSemester.resources
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\University.csproj.GenerateResource.cache
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\University.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\University.AssemblyInfoInputs.cache
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\University.AssemblyInfo.cs
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\University.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\University.csproj.Up2Date
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\University.dll
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\refint\University.dll
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\University.pdb
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\University.genruntimeconfig.cache
+C:\Users\user\Documents\University\obj\Debug\net10.0-windows\ref\University.dll

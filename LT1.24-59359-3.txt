@@ -1,0 +1,11 @@
+select * from salgrade
+select deptno from dept 
+select ename, sal salary , sal*0.5 " 5% increment " from emp
+select sal, sal+3 "new salary " from emp 
+select ename from emp where ename = 'BLAKE'
+select ename ||  'is hired on '  || hiredate ||  ' as a '  || job from emp
+describe salgrade
+describe emp
+describe dept
+describe bonus
+select distinct job from emp 

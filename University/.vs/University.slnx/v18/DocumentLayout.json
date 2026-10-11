@@ -1,0 +1,403 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\University\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|c:\\users\\user\\documents\\university\\fees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|solutionrelative:fees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|c:\\users\\user\\documents\\university\\new_admission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|solutionrelative:new_admission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|c:\\users\\user\\documents\\university\\searchstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|solutionrelative:searchstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|C:\\Users\\user\\Documents\\University\\searchstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|solutionrelative:searchstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|c:\\users\\user\\documents\\university\\searchteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|solutionrelative:searchteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|C:\\Users\\user\\Documents\\University\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|c:\\users\\user\\documents\\university\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|c:\\users\\user\\documents\\university\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|C:\\Users\\user\\Documents\\University\\searchteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|solutionrelative:searchteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|C:\\Users\\user\\Documents\\University\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|c:\\users\\user\\documents\\university\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|C:\\Users\\user\\Documents\\University\\removeid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|solutionrelative:removeid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|C:\\Users\\user\\Documents\\University\\new_admission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|solutionrelative:new_admission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|c:\\users\\user\\documents\\university\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|solutionrelative:aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|c:\\users\\user\\documents\\university\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|solutionrelative:teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|c:\\users\\user\\documents\\university\\individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|solutionrelative:individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|c:\\users\\user\\documents\\university\\removeid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|solutionrelative:removeid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|c:\\users\\user\\documents\\university\\upgradesemester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|solutionrelative:upgradesemester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|C:\\Users\\user\\Documents\\University\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|solutionrelative:aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|C:\\Users\\user\\Documents\\University\\fees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|solutionrelative:fees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|C:\\Users\\user\\Documents\\University\\individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|solutionrelative:individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|C:\\Users\\user\\Documents\\University\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D05F1559-B0A6-CF00-B818-EBB255A54489}|University.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 362,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "New_Admission.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\New_Admission.cs",
+              "RelativeDocumentMoniker": "New_Admission.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\New_Admission.cs [Design]",
+              "RelativeToolTip": "New_Admission.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T09:02:22.021Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchTeacher.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\SearchTeacher.cs",
+              "RelativeDocumentMoniker": "SearchTeacher.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\SearchTeacher.cs",
+              "RelativeToolTip": "SearchTeacher.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA5wDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T08:18:25.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\SearchStudent.cs",
+              "RelativeDocumentMoniker": "SearchStudent.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\SearchStudent.cs [Design]",
+              "RelativeToolTip": "SearchStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T08:53:09.328Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchStudent.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\SearchStudent.cs",
+              "RelativeDocumentMoniker": "SearchStudent.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\SearchStudent.cs",
+              "RelativeToolTip": "SearchStudent.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T12:18:28.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "New_Admission.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\New_Admission.cs",
+              "RelativeDocumentMoniker": "New_Admission.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\New_Admission.cs",
+              "RelativeToolTip": "New_Admission.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T09:07:41.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fees.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\Fees.cs",
+              "RelativeDocumentMoniker": "Fees.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\Fees.cs",
+              "RelativeToolTip": "Fees.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAIwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T12:25:26.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\Student.cs [Design]",
+              "RelativeToolTip": "Student.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T13:57:35.783Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T12:22:35.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T08:21:46.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SearchTeacher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\SearchTeacher.cs",
+              "RelativeDocumentMoniker": "SearchTeacher.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\SearchTeacher.cs [Design]",
+              "RelativeToolTip": "SearchTeacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T08:18:21.935Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T08:10:24.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T08:10:47.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RemoveID.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\RemoveID.cs",
+              "RelativeDocumentMoniker": "RemoveID.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\RemoveID.cs [Design]",
+              "RelativeToolTip": "RemoveID.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T08:00:21.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AboutUs.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\AboutUs.cs",
+              "RelativeDocumentMoniker": "AboutUs.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\AboutUs.cs",
+              "RelativeToolTip": "AboutUs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T02:54:34.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\Teacher.cs",
+              "RelativeDocumentMoniker": "Teacher.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\Teacher.cs",
+              "RelativeToolTip": "Teacher.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowCwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T12:16:23.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Individual.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\Individual.cs",
+              "RelativeDocumentMoniker": "Individual.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\Individual.cs",
+              "RelativeToolTip": "Individual.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwEIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T12:22:46.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RemoveID.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\RemoveID.cs",
+              "RelativeDocumentMoniker": "RemoveID.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\RemoveID.cs",
+              "RelativeToolTip": "RemoveID.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T12:20:07.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpgradeSemester.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\UpgradeSemester.cs",
+              "RelativeDocumentMoniker": "UpgradeSemester.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\UpgradeSemester.cs",
+              "RelativeToolTip": "UpgradeSemester.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T12:17:24.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AboutUs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\AboutUs.cs",
+              "RelativeDocumentMoniker": "AboutUs.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\AboutUs.cs [Design]",
+              "RelativeToolTip": "AboutUs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T09:09:59.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T17:24:55.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Fees.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\Fees.cs",
+              "RelativeDocumentMoniker": "Fees.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\Fees.cs [Design]",
+              "RelativeToolTip": "Fees.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T13:56:28.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Individual.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\University\\Individual.cs",
+              "RelativeDocumentMoniker": "Individual.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\University\\Individual.cs [Design]",
+              "RelativeToolTip": "Individual.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T08:40:47.352Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

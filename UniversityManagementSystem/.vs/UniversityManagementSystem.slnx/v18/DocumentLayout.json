@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|c:\\users\\user\\documents\\universitymanagementsystem\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|solutionrelative:courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|C:\\Users\\user\\Documents\\UniversityManagementSystem\\teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|solutionrelative:teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|C:\\Users\\user\\Documents\\UniversityManagementSystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|c:\\users\\user\\documents\\universitymanagementsystem\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|solutionrelative:studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|C:\\Users\\user\\Documents\\UniversityManagementSystem\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|solutionrelative:studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|c:\\users\\user\\documents\\universitymanagementsystem\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|solutionrelative:courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|C:\\Users\\user\\Documents\\UniversityManagementSystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|c:\\users\\user\\documents\\universitymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|c:\\users\\user\\documents\\universitymanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|c:\\users\\user\\documents\\universitymanagementsystem\\teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|solutionrelative:teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|C:\\Users\\user\\Documents\\UniversityManagementSystem\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|solutionrelative:aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|c:\\users\\user\\documents\\universitymanagementsystem\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|solutionrelative:aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|c:\\users\\user\\documents\\universitymanagementsystem\\teacherform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|solutionrelative:teacherform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|c:\\users\\user\\documents\\universitymanagementsystem\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|solutionrelative:dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FD4D63-9ACD-4911-88EF-4AEAD425264E}|UniversityManagementSystem.csproj|C:\\Users\\user\\Documents\\UniversityManagementSystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1FD4D63-9ACD-4911-88EF-4AEAD425264E}|UniversityManagementSystem.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|c:\\users\\user\\documents\\universitymanagementsystem\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88985A39-17D8-90C6-10D1-B384345B8D51}|UniversityManagementSystem.csproj|solutionrelative:loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FD4D63-9ACD-4911-88EF-4AEAD425264E}|UniversityManagementSystem.csproj|C:\\Users\\user\\Documents\\UniversityManagementSystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1FD4D63-9ACD-4911-88EF-4AEAD425264E}|UniversityManagementSystem.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 362,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\StudentForm.cs",
+              "RelativeDocumentMoniker": "StudentForm.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\StudentForm.cs",
+              "RelativeToolTip": "StudentForm.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T08:57:24.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T07:25:53.399Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\Dashboard.cs",
+              "RelativeToolTip": "Dashboard.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T15:41:32.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T07:16:14.842Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\TeacherForm.cs",
+              "RelativeDocumentMoniker": "TeacherForm.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\TeacherForm.cs [Design]",
+              "RelativeToolTip": "TeacherForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T16:25:12.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\CourseForm.cs",
+              "RelativeDocumentMoniker": "CourseForm.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\CourseForm.cs [Design]",
+              "RelativeToolTip": "CourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T17:48:46.851Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\StudentForm.cs",
+              "RelativeDocumentMoniker": "StudentForm.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\StudentForm.cs [Design]",
+              "RelativeToolTip": "StudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T08:57:47.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwBoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T11:31:37.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\CourseForm.cs",
+              "RelativeDocumentMoniker": "CourseForm.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\CourseForm.cs",
+              "RelativeToolTip": "CourseForm.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAwF8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T17:53:50.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeacherForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\TeacherForm.cs",
+              "RelativeDocumentMoniker": "TeacherForm.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\TeacherForm.cs",
+              "RelativeToolTip": "TeacherForm.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwFAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T15:13:24.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AboutUs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\AboutUs.cs",
+              "RelativeDocumentMoniker": "AboutUs.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\AboutUs.cs [Design]",
+              "RelativeToolTip": "AboutUs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T18:15:27.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AboutUs.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\AboutUs.cs",
+              "RelativeDocumentMoniker": "AboutUs.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\AboutUs.cs",
+              "RelativeToolTip": "AboutUs.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T19:32:24.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TeacherForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\TeacherForm.Designer.cs",
+              "RelativeDocumentMoniker": "TeacherForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\TeacherForm.Designer.cs",
+              "RelativeToolTip": "TeacherForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T16:17:04.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\Dashboard.Designer.cs",
+              "RelativeToolTip": "Dashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T15:41:18.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T13:55:14.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\LoginForm.Designer.cs",
+              "RelativeToolTip": "LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T11:31:45.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\UniversityManagementSystem\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T11:21:41.919Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
